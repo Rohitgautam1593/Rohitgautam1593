@@ -1,18 +1,15 @@
-## Hi there 👋
 
-<!--neknkedk
-**Rohitgautam1593/Rohitgautam1593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Rohit Gautam
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (Hons) | Data Science & Machine Learning | Swami Rama Himalayan University  
+🌱 Currently learning: Web Development, Flutter, Deep Learning  
+🚀 Building: Multi-feature mobile apps, AI-based dream visualizer, plant disease classifier  
+🔍 Exploring: Big Data (Hadoop, Hive, MapReduce), NLP, and Computer Vision  
+🤝 Open to collaboration on ML projects, app development, and innovative tech ideas  
+📫 Reach me at: rohit2004gautam@gmail.com  
+🏀 Fun fact: When I’m not coding, I’m probably on the basketball court!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-hellow everyone 
-ghjg
+Let's connect and build something amazing! 💡
+
+
+

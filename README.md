@@ -6,7 +6,7 @@
 🚀 Building: Multi-feature mobile apps, AI-based dream visualizer, plant disease classifier  
 🔍 Exploring: Big Data (Hadoop, Hive, MapReduce), NLP, and Computer Vision  
 🤝 Open to collaboration on ML projects, app development, and innovative tech ideas  
-📫 Reach me at: rohit2004gautam@gmail.com  
+📫 Reach me at: egrohitgautam@gmail.com  
 🏀 Fun fact: When I’m not coding, I’m probably on the basketball court!
 
 Let's connect and build something amazing! 💡
